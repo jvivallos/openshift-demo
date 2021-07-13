@@ -1,0 +1,8 @@
+{
+  "realm": "test-realm",
+  "auth-server-url": "https://sso-sso-sandbox.apps.udec-1.bjle.p1.openshiftapps.com/auth/",
+  "ssl-required": "external",
+  "resource": "angularjs-jvivallos",
+  "public-client": true,
+  "confidential-port": 0
+}
